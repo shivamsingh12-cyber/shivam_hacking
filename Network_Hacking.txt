@@ -14,3 +14,8 @@ Cmd: iptables –t nat –A PREROUTING –p tcp –destination-port –j REDIREC
 
 After that run simple ssltrip
 Cmd: ssltrip
+
+change mac address
+ifconfig interface down
+ifconfig interface hw ether 00:11:22:33:44:55 
+ifconfig interface up
