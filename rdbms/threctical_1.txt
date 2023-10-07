@@ -1,0 +1,17 @@
+1. Write different Uses Database.
+
+Databases are used in a wide range of applications, from personal to commercial. Here are some examples of how databases are used:
+
+Businesses: Databases are used to store and manage data related to inventory, order processing, payroll, accounting, shipping, and transportation routing. They help businesses keep track of their operations and make informed decisions 1.
+
+Education: Educational institutions use databases to keep track of students, grades, transfers, transcripts, and other student data. There are even specialized database packages geared toward schools and colleges 12.
+
+Non-profits: Non-profit organizations use databases to store details of donations, volunteers, hours served in the community, clients helped, and other information related to the organization 1.
+
+Household and Family Management: Many people use databases to keep track of family birthdays, bills and expenses in the home; addresses of friends and relatives; and movie/DVD collections 1.
+
+Marketing: Databases are used to store customer information such as names, addresses, phone numbers, email addresses, purchase history, and other relevant data. This information is then used to send mailings of special offers, discounts, and other deals 1.
+
+Research: Databases are used in research to store data such as survey results or scientific observations. They can be used to analyze data and draw conclusions 3.
+
+Social Media: Social media platforms use databases to store user information such as profiles, posts, comments, likes/dislikes. This information is then used to personalize user experience by recommending content that is relevant to them 
